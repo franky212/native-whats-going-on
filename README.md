@@ -32,5 +32,11 @@ brew install watchman
 <code>npm install -g react-native-cli</code><br/>
 <p><small><code>-g</code> is short for Global. We're installing it on our system globally rather than locally to just the project.</small></p>
 <br/>
-<p>Okay now you should be all set up to clone the repository, and run the project locally!</p>
+<p>Okay now you should be all set up to clone the repository, and run the project locally! Put it into any file you'd like!</p>
+<br/>
+<code>git clone git@github.com:franky212/native-whats-going-on.git</code>
+<br/>
+<p>Go into the root directory of the project, and run this command.</p>
+<br/>
+<code>react-native run-ios</code>
 
