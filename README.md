@@ -30,7 +30,7 @@ brew install watchman
 <p>Node comes with <a href="https://www.npmjs.com/">NPM</a> which will allow us to install the React Native CLI (Command Line Interface). Just type in the following code to install it.</p>
 <br/>
 <code>npm install -g react-native-cli</code><br/>
-<small><code>-g</code> is short for Global. We're installing it on our system globally rather than locally to just the project.</small>
+<p><small><code>-g</code> is short for Global. We're installing it on our system globally rather than locally to just the project.</small></p>
 <br/>
 <p>Okay now you should be all set up to clone the repository, and run the project locally!</p>
 
