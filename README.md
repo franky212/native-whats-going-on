@@ -34,11 +34,11 @@ brew install watchman
 <br/>
 <p>Okay now you should be all set up to clone the repository, and run the project locally! Put it into any file you'd like!</p>
 <br/>
-<code>git clone git@github.com:franky212/native-whats-going-on.git</code>
+<p><code>git clone git@github.com:franky212/native-whats-going-on.git</code></p>
 <br/>
 <p>Go into the root directory of the project, and run this command.</p>
 <br/>
-<code>react-native run-ios</code>
+<p><code>react-native run-ios</code></p>
 <br/>
 <p>Feel free to provide feedback: <a href="mailto:frank.delaguila@gmail.com">Email Me</a></p>
 
