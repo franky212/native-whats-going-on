@@ -39,4 +39,6 @@ brew install watchman
 <p>Go into the root directory of the project, and run this command.</p>
 <br/>
 <code>react-native run-ios</code>
+<br/>
+<p>Feel free to provide feedback: <a href="mailto:frank.delaguila@gmail.com">Email Me</a></p>
 
