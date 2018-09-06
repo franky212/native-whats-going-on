@@ -18,7 +18,7 @@
 <p>Once Homebrew is installed on your sytem you will want to run these commands to install Node, and a package called Watchman.</p>
 <br/>
 <code>
-brew install node // NOT needed if you have Node 8.3, or newer already.
+brew install node // NOT needed if you have Node 8.3, or newer already.<br/>
 brew install watchman
 </code>
 <br/>
