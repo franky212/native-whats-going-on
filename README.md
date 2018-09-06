@@ -18,11 +18,12 @@
 <p>Once Homebrew is installed on your sytem you will want to run these commands to install Node, and a package called Watchman.</p>
 <br/>
 <code>
-brew install node // NOT needed if you have Node 8.3, or newer already.<br/>
+brew install node // NOT needed if you have Node 8.3, or newer already.
+
 brew install watchman
 </code>
 <br/>
-<4>What's Watchman?</4>
+<h4>What's Watchman?</h4>
 <br/>
 <p><a href="https://facebook.github.io/watchman/">Watchman</a> is a tool by Facebook for watching changes in the filesystem. It is highly recommended you install it for better performance.</p>
 <br/>
