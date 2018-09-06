@@ -1,7 +1,7 @@
 <h1>What's Going On</h1>
 
 <h3>Project description (work in progress):</h3>
-<small>Definitely check out the <a href="https://facebook.github.io/react-native/docs/getting-started.html">React Native Docs</a> for more detailed instructions, and documentation.</small>
+<p><small>Definitely check out the <a href="https://facebook.github.io/react-native/docs/getting-started.html">React Native Docs</a> for more detailed instructions, and documentation.</small></p>
 <br/>
 <p>What's Going On is an app that allows a user to sign up for a basic account, or an event manager to sign up for a business account. Basic users are able to open the app, and see an interactive map with events(Concerts, parties, meetups, conferences, etc.) close to them. They are able to select a a verified event, and purchase tickets (if applicable) from the app right then.</p>
 <br/>
