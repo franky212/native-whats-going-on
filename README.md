@@ -10,5 +10,9 @@
 <br/>
 <p>First you will want to install Xcode <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">here</a>.</p>
 <br/>
-<p>Once Xcode is installed you will want Node on your system. <br/><strong>React Native recommeds Node 8.3, or newer.</strong></p>
+<p>Once Xcode is installed you will want Node on your system. <em>If you have Node installed already make sure to read the note.</em> <br/><strong>NOTE: React Native recommeds Node 8.3, or newer. You can use <code>node -v</code> to see what version of Node you have. They also recommend installing these next two packages through Brew.</strong></p>
+<br/>
+<p>You can install Homebrew <a href="https://brew.sh/">here</a>. Just copy, and paste the command they give you into your command prompt.</p>
+<br/>
+<p>Once Homebrew is installed on your sytem you will want to run these commands to install Node, and a package called Watchman.</p>
 
