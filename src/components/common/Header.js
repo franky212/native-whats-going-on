@@ -3,7 +3,7 @@ import React from 'react';
 import {Text, View} from 'react-native';
 
 // Make a component
-const Header = (props) => {
+const Header = ( props ) => {
     const {textStyle, viewStyle} = styles;
     return (
         <View style={viewStyle}>
@@ -31,4 +31,4 @@ const styles = {
 };
 
 // Make the component available to other parts of the app
-export default Header;
+export {Header};

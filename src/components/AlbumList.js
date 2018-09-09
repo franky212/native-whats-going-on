@@ -3,6 +3,8 @@ import {ScrollView} from 'react-native';
 import axios from 'axios';
 
 import AlbumDetail from './AlbumDetail';
+import {Button} from './common';
+import firebase from 'firebase';
 
 export default class AlbumList extends Component {
     constructor ( props ) {
@@ -28,6 +30,10 @@ export default class AlbumList extends Component {
         return (
             <ScrollView>
                 {this.renderAlbums()}
+                <Button
+                    onPress={() => firebase.auth().signOut()}>
+                    Log Out
+                </Button>
             </ScrollView>
         );
     }
